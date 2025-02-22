@@ -69,3 +69,7 @@ The following automation steps are configured to run in GitHub Codespaces:
 
 5. **Run Frontend Tests:**
    - The frontend tests are run using the `npm test` command in the `frontend` directory.
+
+## Merge Activity
+
+The workspace branch has been successfully merged with the main branch, ensuring all files are up to date. The changes have been committed to the main branch.

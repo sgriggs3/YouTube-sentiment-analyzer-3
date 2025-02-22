@@ -1,4 +1,3 @@
-// frontend/src/components/VideoAnalyzer.js
 import React, { useState } from 'react';
 import VideoInput from './VideoInput';
 import SentimentChart from './SentimentChart';

@@ -50,3 +50,10 @@ jobs:
         run: |
           pytest backend/tests
           cd frontend && npm test
+
+      - name: Merge workspace branch with main branch
+        run: |
+          git fetch origin
+          git checkout main
+          git merge origin/workspace
+          git push origin main

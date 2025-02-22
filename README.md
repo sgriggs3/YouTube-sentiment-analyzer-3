@@ -74,3 +74,7 @@ A web application that analyzes YouTube video comments for sentiment and provide
 ## Testing
 
 Run backend tests:
+
+## Recent Merge Activity
+
+The `workspace` branch has been successfully merged with the `main` branch, ensuring all files are up to date.
